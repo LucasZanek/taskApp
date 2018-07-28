@@ -1,0 +1,36 @@
+{
+  "todos":[
+    {
+      "name":"Clean",
+      "description":"Clean the house",
+      "daysLeft":"6 ",
+      "responsable":"Lucas"
+    },
+    {
+      "name":"Study",
+      "description":"Study React.JS",
+      "daysLeft":"6 ",
+      "responsable":"Lucas"
+    },
+    {
+      "name":" Bonaffide",
+      "description":"code Bonaffide",
+      "daysLeft":"2",
+      "responsable":"Jose"
+    },
+    {
+      "name":"SouthWorks",
+      "description":"take a job ",
+      "daysLeft":"23",
+      "responsable":"Lucas "
+    },
+    {
+      "name":"Family Food",
+      "description":" go to apostoles",
+      "daysLeft":"4",
+      "responsable":"Lucas"
+
+    }
+
+  ]
+}
