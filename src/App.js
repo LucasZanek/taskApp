@@ -89,7 +89,7 @@ removeTodo = (index) =>{
 
           <div className="col-md-4 text-center">
             <img src={logo} className="App-logo" alt="logo" />
-            <AddForm onAddTodo={this.handleAddTodo} removeTodo={this.removeTodo}/>
+            <AddForm onAddTodo={this.handleAddTodo}/>
 
           </div>
 
